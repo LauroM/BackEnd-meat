@@ -11,5 +11,7 @@ namespace meat_api.Models
         public System.Data.Entity.DbSet<meat_api.Models.Restaurant> Restaurants { get; set; }
 
         public System.Data.Entity.DbSet<meat_api.Models.Reviews> Reviews { get; set; }
+
+        public System.Data.Entity.DbSet<meat_api.Models.Orders> Orders { get; set; }
     }
 }

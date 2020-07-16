@@ -99,4 +99,3 @@ C:\Users\Lauro\source\repos\meat_api\obj\Debug\meat_api.pdb
 C:\Users\Lauro\source\repos\meat_api\bin\System.Web.Cors.dll
 C:\Users\Lauro\source\repos\meat_api\bin\System.Web.Http.Cors.dll
 C:\Users\Lauro\source\repos\meat_api\bin\System.Web.Http.Cors.xml
-C:\Users\Lauro\source\repos\meat_api\obj\Debug\meat_api.csprojAssemblyReference.cache
