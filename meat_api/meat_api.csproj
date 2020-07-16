@@ -172,6 +172,9 @@
     <Compile Include="Controllers\RestaurantsController.cs" />
     <Compile Include="Controllers\ReviewsController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="DAO\MenuDAO.cs" />
+    <Compile Include="DAO\RestaurantDAO.cs" />
+    <Compile Include="DAO\ReviewDAO.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

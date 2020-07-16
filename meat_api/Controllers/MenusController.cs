@@ -65,19 +65,6 @@ namespace meat_api.Controllers
             return Ok(menu);
         }
         
-        [ResponseType(typeof(Menu))]
-        [HttpGet]
-        [Route("{restaurantId}/menu")]
-        public IHttpActionResult MenuOfRestaurant(int restaurantId)
-        {
-            Menu menu = db.Menus.Find(restaurantId);
-
-            if (menu == null) return NotFound();
-            
-            
-            return Ok(menu);
-        }
-
         /*      
         // PUT: api/Menus/5
         [ResponseType(typeof(void))]
